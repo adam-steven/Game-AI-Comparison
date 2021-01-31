@@ -1,0 +1,2 @@
+# Game AI Comparison
+ As finite state machines are known for becoming hard to handle the more states are added. This project planned to test how a large finite state machine compared to a large weighted finite state machine, as the weighted version is far easier to implement. A Hot Line Miami style game was created in Unity (C#), and the two AI methods were implemented into the enemy AI. It was found that the users could not tell the differences between the enemies, however the weighted version was calculated as being easier.   
