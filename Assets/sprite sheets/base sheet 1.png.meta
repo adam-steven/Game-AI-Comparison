@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: 65f1bebb857d93142af455ee6c6d7ebc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6271762724525777139
+    second: default position (walk 0)
+  - first:
+      213: 1791651726511226693
+    second: walk 1
+  - first:
+      213: 7207044233272636982
+    second: walk 2
+  - first:
+      213: 7984660719282061275
+    second: walk 3
+  - first:
+      213: -8974951346410247140
+    second: walk 4
+  - first:
+      213: 3782411476304535106
+    second: walk 5
+  - first:
+      213: -2903809803408370989
+    second: walk 6
+  - first:
+      213: -8329533364651813244
+    second: small gun hold walk 0
+  - first:
+      213: -5751329557179015279
+    second: small gun hold walk 1
+  - first:
+      213: -3163639195484098475
+    second: small gun hold walk 2
+  - first:
+      213: -2815659107008038165
+    second: small gun hold walk 3
+  - first:
+      213: -2168525572108322728
+    second: small gun hold walk 4
+  - first:
+      213: -4839871994122031494
+    second: small gun hold walk 5
+  - first:
+      213: 371230509198973477
+    second: small gun hold walk 6
+  - first:
+      213: -216566601284131000
+    second: small gun
+  - first:
+      213: 8674577613420866509
+    second: big gun hold walk 0
+  - first:
+      213: -2038503135448122192
+    second: big gun hold walk 1
+  - first:
+      213: -2634699997978570823
+    second: big gun hold walk 2
+  - first:
+      213: 4653358725183256874
+    second: big gun hold walk 3
+  - first:
+      213: 9214376479043851569
+    second: big gun hold walk 4
+  - first:
+      213: 2758285235096451981
+    second: big gun hold walk 5
+  - first:
+      213: 5551631928737439751
+    second: big gun hold walk 6
+  - first:
+      213: 8290143255608629579
+    second: big gun
+  - first:
+      213: -8233629725774037135
+    second: talk 1 + repair
+  - first:
+      213: 1213930741676143174
+    second: talk 2
+  - first:
+      213: -5522109196327781012
+    second: talk 3
+  - first:
+      213: -8082930691576221776
+    second: talk 4
+  - first:
+      213: -1391096049925004755
+    second: repair icon 0
+  - first:
+      213: -454627052496144449
+    second: repair icon 1
+  - first:
+      213: -7638062944290396954
+    second: repair icon 2
+  - first:
+      213: -1628055349515529950
+    second: repair icon 3
+  - first:
+      213: -7324571817390843483
+    second: repair icon 4
+  - first:
+      213: -5635428055392992842
+    second: holding cards
+  - first:
+      213: -9048127060327561703
+    second: folding phone 1
+  - first:
+      213: -7280065317213592350
+    second: holding phone 2
+  - first:
+      213: -7935677721477761206
+    second: holding phone alert
+  - first:
+      213: 4170399084951674837
+    second: card
+  - first:
+      213: -6609613341819203093
+    second: remote
+  - first:
+      213: 3492116102258989404
+    second: alert lightning
+  - first:
+      213: -4106875840460255392
+    second: punch 1
+  - first:
+      213: 4719967793129506103
+    second: punch 2
+  - first:
+      213: -634067538159690177
+    second: punch 4
+  - first:
+      213: -3139398036375058228
+    second: punch 3
+  - first:
+      213: -9160987577138628238
+    second: dead
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: default position (walk 0)
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 465
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d019e8554f093468a754a704fd2554
+      internalID: -6271762724525777139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 459
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ce170e4ea1ac64aba91ae3a23c9716
+      internalID: 1791651726511226693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 456
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c890f2cff5e9814b9c3f1d55505aa12
+      internalID: 7207044233272636982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 453
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09956f6b4b36bc140b41b84a0bd663fa
+      internalID: 7984660719282061275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 459
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ddacdb163243443ae46cfa035fae91
+      internalID: -8974951346410247140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 456
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683a394aa9b9c7145b1483ff2ce9c543
+      internalID: 3782411476304535106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk 6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 453
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0071285e8b75dc948b9fb74ea6084a6d
+      internalID: -2903809803408370989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun hold walk 0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 369
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54f5318f43aac4eb4582e23a3ac785
+      internalID: -8329533364651813244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun hold walk 1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 363
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e10cb1205becc342961a67d2fb74d27
+      internalID: -5751329557179015279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun hold walk 2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 360
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c58652deb1b85f449a10d792775d3b9
+      internalID: -3163639195484098475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun hold walk 3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 357
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea95b8a852adf40bbd5bbf58ce1c2e
+      internalID: -2815659107008038165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun hold walk 4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 363
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2be18dabb8706c42a08c3a8cc4c7aa0
+      internalID: -2168525572108322728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun hold walk 5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 360
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01144389d175bec44aa1e7545ec8907d
+      internalID: -4839871994122031494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun hold walk 6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 357
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c197d9956ceef2b459ff3c1aa021dc21
+      internalID: 371230509198973477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small gun
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 375
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3088176911272fd4c9eedb922738cd7d
+      internalID: -216566601284131000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun hold walk 0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b80173f7a176e04aac7958e35b8e94e
+      internalID: 8674577613420866509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun hold walk 1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 264
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd01ab9317722fe4d8b192bf19f043e1
+      internalID: -2038503135448122192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun hold walk 2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 261
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21e148095230249be291e01d97c940
+      internalID: -2634699997978570823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun hold walk 3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 258
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5708a94376fc14344a90f57f0110e9e3
+      internalID: 4653358725183256874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun hold walk 4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 264
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e16ea0cdccce6479713ab55e1717fa
+      internalID: 9214376479043851569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun hold walk 5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 261
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17dea28766445c44ab285dfa43199df
+      internalID: 2758285235096451981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun hold walk 6
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 258
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab88fbead15854180e75ba15e76b2e
+      internalID: 5551631928737439751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big gun
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 285
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d32c98c708b73246b2f497d600b6c54
+      internalID: 8290143255608629579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk 1 + repair
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 207
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5bf8d3e30d39f4c81d02cc7d34a155
+      internalID: -8233629725774037135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk 2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 207
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae2df73a4ed7646acd74f301bf67f7
+      internalID: 1213930741676143174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk 3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 207
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9fa2b21a406204ebd948d774f3c24c
+      internalID: -5522109196327781012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: talk 4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c637272c8cfa334b8645c295dc101f9
+      internalID: -8082930691576221776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repair icon 0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 210
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5f9dfa7cbea4a4eaf8654246d8edaf
+      internalID: -1391096049925004755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repair icon 1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 210
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b2e183ad09d6d40831a9274ee0c27c
+      internalID: -454627052496144449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repair icon 2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 204
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab1a9c88ddac94cbda6d77a0129114
+      internalID: -7638062944290396954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repair icon 3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 204
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95319d5d64917b4c9d95c3959de69ad
+      internalID: -1628055349515529950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: repair icon 4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 204
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3d593e5f7c92c45bde9e6227cfe175
+      internalID: -7324571817390843483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holding cards
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 148
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b43390e2eec9942815e7d46e453832
+      internalID: -5635428055392992842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: folding phone 1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 148
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bf905ed23842f46a70a638aa07ffc8
+      internalID: -9048127060327561703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holding phone 2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 148
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce6911170d260e4fb63e69db8148f41
+      internalID: -7280065317213592350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: holding phone alert
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 148
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e324193efb0ffd4b9cfdecb6d993fe4
+      internalID: -7935677721477761206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 157
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c90bb7c0bd18248ad77532182bb625
+      internalID: 4170399084951674837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: remote
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 148
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d660316b801174347aed1217cc9d6bd0
+      internalID: -6609613341819203093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alert lightning
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 151
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c54b9d00c86b44ab27d08c578cb06
+      internalID: 3492116102258989404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punch 1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 70
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac6d42ec5ff9d40b6ffa4d973bf5e2
+      internalID: -4106875840460255392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punch 2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 67
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74ccb6be463f384188731c936c236e9
+      internalID: 4719967793129506103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punch 4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 67
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff67eab961dde4b45a6382d42da0d884
+      internalID: -634067538159690177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: punch 3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 70
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc99eda1f44884d88fe6b533fe38b2
+      internalID: -3139398036375058228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dead
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 13
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e3e3b461fa824e88b6c3ffcee6278
+      internalID: -9160987577138628238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
